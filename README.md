@@ -1,0 +1,1 @@
+The code of SIGIR2024 paper "Adaptive Fair Representation Learning for Personalized Fairness in Recommendations via Information Alignment"
